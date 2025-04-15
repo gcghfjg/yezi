@@ -1,9 +1,9 @@
 {
   "name": "nodejs",
-  "main": "indesno.js",
+  "main": "index.js",
   "private": false,
   "scripts": {
-    "start": "node indesno.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "axios": "latest",
